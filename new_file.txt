@@ -1,3 +1,5 @@
 Text in new file!
 
 Hello!
+
+On this moment, new_branch are joind to main.
