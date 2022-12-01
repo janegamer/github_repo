@@ -3,3 +3,8 @@ Text in new file!
 Hello!
 
 On this moment, new_branch are joind to main.
+
+Added some lines for testing.
+OOOOOO
+AAAAAA
+EEEEEE
